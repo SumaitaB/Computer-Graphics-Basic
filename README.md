@@ -1,4 +1,4 @@
-## Computer Graphics Basic
+### Computer Graphics Basic
 A number of Computer Graphics programs written in C++. Programs include: 
 
 * Bresenham line algorithm
